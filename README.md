@@ -1,2 +1,2 @@
 # simple_component
-Simple Component
+Simple Responsive Component
